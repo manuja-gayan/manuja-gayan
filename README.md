@@ -5,9 +5,9 @@ Hey there 👋
 I'm Manuja, associate tech lead with consistently demonstrated a robust track record of achievements in the realms of software design, development, rigorous testing, and the unwavering maintenance of mission-critical applications. My insatiable drive to embrace cutting-edge technologies compels me to consistently pursue and master innovative tools that align with established industry standards. Bolstered by a strong academic foundation and enriched by years of hands-on experience, I remain steadfastly committed to delivering excellence in all endeavours.
 
 
-## 📌 Pinned Repositories
+<!-- ## 📌 Pinned Repositories -->
 
-<br>
+<!-- <br> -->
 
 <img align="center" alt="Coding" width="200" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
@@ -30,7 +30,7 @@ I'm Manuja, associate tech lead with consistently demonstrated a robust track re
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=manuja-gayan&repo=fileuploadservice&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
 
-<br>
+<!-- <br> -->
 
 ## About Me
 - 🌱 I’m currently learning **ReactJS, HTML, CSS**
