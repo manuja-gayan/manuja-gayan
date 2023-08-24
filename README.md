@@ -9,15 +9,15 @@ I'm Manuja, associate tech lead with consistently demonstrated a robust track re
 
 <br>
 
-<img align="right" alt="Coding" width="200" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
+<img align="center" alt="Coding" width="200" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
-
+<!-- 
 <a href="https://github.com/manuja-gayan/spring-boot-base-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=manuja-gayan&repo=spring-boot-base-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
+<br> -->
 
-<a href="https://github.com/manuja-gayan/java-log-plugin">
+<!-- <a href="https://github.com/manuja-gayan/java-log-plugin">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=manuja-gayan&repo=java-log-plugin&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
@@ -28,7 +28,7 @@ I'm Manuja, associate tech lead with consistently demonstrated a robust track re
 
 <a href="https://github.com/manuja-gayan/fileuploadservice">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=manuja-gayan&repo=fileuploadservice&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
 <br>
 
